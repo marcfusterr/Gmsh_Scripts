@@ -1,2 +1,4 @@
-an example
+This set of scripts is a basic guide to generate and refine 2D and 3D meshes on Gmsh. 
+The set contains scripts to create circles, cylinders, squares and cubes. 
+All those geometries have an homogeneous and a non-homogeneous version. Moreover, an homogeneous toroid has been included.
 
